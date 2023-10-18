@@ -1,6 +1,28 @@
 # Python-Basics-A-Comprehensive-Guide-for-Beginners
 <img src="python_article1.jpeg">
 
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [The Python Phenomenon](#the-python-phenomenon)
+3. [Importance of Learning Python Basics](#importance-of-learning-python-basics)
+4. [Python Basics Overview](#python-basics-overview)
+   4.1. [Why Python is Popular Among Beginners](#why-python-is-popular-among-beginners)
+5. [Setting up Python Environment for Beginners](#setting-up-python-environment-for-beginners)
+   5.1. [Installing Python](#installing-python)
+   5.2. [Choosing a Code Editor](#choosing-a-code-editor)
+   5.3. [Writing and Running Python Code](#writing-and-running-python-code)
+6. [Variables and Data Types: The Foundation of Python](#variables-and-data-types-the-foundation-of-python)
+   6.1. [Understanding Basic Data Types](#understanding-basic-data-types)
+   6.2. [Declaring Variables: The Foundation of Programming](#declaring-variables-the-foundation-of-programming)
+   6.3. [Examples and Real-World Use Cases](#examples-and-real-world-use-cases)
+7. [Operators and Expressions: Unleashing Python's Power](#operators-and-expressions-unleashing-pythons-power)
+   7.1. [Basic Operators: The Building Blocks of Magic](#basic-operators-the-building-blocks-of-magic)
+   7.2. [Use Cases and Real-World Examples](#use-cases-and-real-world-examples)
+   7.3. [Additional Operators: Assignment and Comparison](#additional-operators-assignment-and-comparison)
+   7.4. [Practical Applications](#practical-applications)
+   7.5. [Real-Life Applications](#real-life-applications)
+   
 # Introduction
 Python Basics: A Comprehensive Guide for Beginners
 
