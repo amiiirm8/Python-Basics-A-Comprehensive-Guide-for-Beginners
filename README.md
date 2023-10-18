@@ -75,23 +75,18 @@ To begin our journey, let's imagine data types as the various flavors in an ice 
 
 ### Declaring Variables: The Foundation of Programming
 
-Variables are like labels on containers where you store your data. When you declare a variable, you give that container a name, tell it what kind of data it's going to hold, and, just like that, it's ready to work its magic. In Python, declaring a variable is as simple as saying:
+Variables are like labels on containers where you store your data. When you declare a variable, you give that container a name, tell it what kind of data it's going to hold, and, just like that, it's ready to work its magic. In Python, declaring a variable is as simple as saying: `variable_name = value`
 
-  `variable_name = value`
+
 Here's a glimpse of how this works for each data type:
 
-- **Integers (int):**
-  `candies = 100`
+- **Integers (int):** `candies = 100`
 
-- **Strings (str):** 
-`message = "Hello, Python!"`
+- **Strings (str):**  `message = "Hello, Python!"`
 
-- **Floats (float):**
-  `temperature = 27.5`
+- **Floats (float):** `temperature = 27.5`
 
-- **Booleans (bool):**
-
-  `is_raining = False`
+- **Booleans (bool):** `is_raining = False`
 
 <img src="ar10.jpeg">
 
